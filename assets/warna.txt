@@ -1,0 +1,4 @@
+dark blue = #1A2238
+semidark purpel = #9DAAF2
+semidark orange = #FF6A3D
+semidark yellow = #F4DB7D
